@@ -1,3 +1,11 @@
+# React Code Repository
+This is my React code without changes to the file structure.
+Github pages changed all the files structure when I used npm install gh-pages and npm run deploy commands on the CLI(command line interface)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
