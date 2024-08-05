@@ -1,6 +1,6 @@
 # React Code Repository
-This is my React code without changes to the file structure.
-Github pages changed all the files structure when I used npm install gh-pages and npm run deploy commands on the CLI(command line interface)
+- When I used npm install gh-pages and npm run deploy commands on the CLI(command line interface) the file structure had changed.
+- This is repository showcases the react code.
 
 
 
