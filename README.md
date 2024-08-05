@@ -1,6 +1,6 @@
 # React Code Repository
 - When I used npm install gh-pages and npm run deploy commands on the CLI(command line interface) the file structure had changed.
-- This is repository showcases the react code.
+- This is the repository showcases the react code.
 
 
 
